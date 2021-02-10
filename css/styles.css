@@ -3,3 +3,9 @@ h1{
     font-family: verdana;
     background-color: yellow;
 }
+
+h2{
+    text-align: right;
+    font-style: oblique;
+    font-weight: 600;
+}
